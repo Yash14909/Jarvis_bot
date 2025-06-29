@@ -86,7 +86,7 @@ python main.py
 4. "Jarvis, what's the latest news in India?"
 
 
-You can use both the pyttsx3 is open-source and gTTS is free for some days later you will need pay
+"You can use both — pyttsx3 is open-source, and gTTS is free for some days, but may require payment later."
 
 ........................................................
 
